@@ -1,12 +1,12 @@
-// import { useState } from 'react';
+import { useState } from 'react';
 import './App.css';
-// import SkylineDropdown from './SkylineDropdown';
-// import WaterfrontDropdown from './WaterfrontDropdown';
-// import CastleDropdown from './CastleDropdown';
-// import SloganList from './SloganList';
-// import SloganForm from './SloganForm';
-// import CityNameInput from './CityNameInput';
-// import City from './City';
+import SkylineDropdown from './SkylineDropdown';
+import WaterfrontDropdown from './WaterfrontDropdown';
+import CastleDropdown from './CastleDropdown';
+import SloganList from './SloganList';
+import SloganForm from './SloganForm';
+import CityNameInput from './CityNameInput';
+import City from './City';
 
 function App() {
   // track some state here.
