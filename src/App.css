@@ -41,3 +41,11 @@ select {
     grid-template-rows: 1fr 1fr;
     border: solid 1px black;
 }
+
+.slogan > p {
+    margin: 5px 0;
+}
+
+input {
+    text-align: center;
+}
