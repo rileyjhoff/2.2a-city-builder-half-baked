@@ -45,3 +45,7 @@ select {
 .slogan > p {
     margin: 5px 0;
 }
+
+input {
+    text-align: center;
+}
