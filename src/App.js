@@ -39,7 +39,7 @@ function App() {
           */}
           <Dropdown dropdown="waterfront" setId={setWaterfrontId} />
           <Dropdown dropdown="skyline" setId={setSkylineId} />
-          <Dropdown dropdown="castle" setId={setSkylineId} />
+          <Dropdown dropdown="castle" setId={setCastleId} />
           {/* <WaterfrontDropdown setWaterfrontId={setWaterfrontId} /> */}
           {/* <SkylineDropdown setSkylineId={setSkylineId} /> */}
           {/* <CastleDropdown setCastleId={setCastleId} /> */}
